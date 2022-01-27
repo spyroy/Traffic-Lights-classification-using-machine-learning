@@ -1,4 +1,4 @@
-# machine-learning-project
+# Traffic Lights classification using machine learning
 
 
 project summary - our project review.
