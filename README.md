@@ -11,3 +11,4 @@ project.pdf - convinient way to read the inputs and outputs of the code.
 
 
 images - the results for the greyscale expiriment as images and the images that models missclassified for the RGB format.
+ 
